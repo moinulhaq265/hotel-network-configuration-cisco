@@ -9,6 +9,6 @@ To run this simulation locally, simply clone this repository, ensure you have **
 ### 👨‍💻 Connect With Me
 If you find this network design interesting or want to discuss core infrastructure architecture, systems engineering, or structural configurations, feel free to reach out:
 
-*   **LinkedIn:** [linkedin.com/in/moinulhaq265](https://www.linkedin.com/in/moinulhaq265)
+*   **LinkedIn:** [linkedin.com/in/moinulhaq265](https://www.linkedin.com/in/moin-ul-haq-627761363/)
 *   **Email:** moinulhaq265@gmail.com
 *   **GitHub:** [github.com/moinulhaq265](https://github.com/moinulhaq265)
